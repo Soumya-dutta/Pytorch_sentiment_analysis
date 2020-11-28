@@ -1,5 +1,5 @@
 # Pytorch_sentiment_analysis
-This repository contains different methods for finding classifying text into sentiments. The source of this data is https://nlp.stanford.edu/sentiment/index.html .
+This repository contains different methods for finding classifying text into sentiments. The source of this data is https://nlp.stanford.edu/sentiment/index.html . Much of the code that has been done in this repository is from this wonderful github repository https://github.com/bentrevett/pytorch-sentiment-analysis
 The challenge in classifying this data is the fact that it has **5 sentiment** categories along with not many training examples. There are **8544 training** examples, **1101 validation** examples and **2210 test** data points.
 The techniques that has been implemented are as follows:
 
